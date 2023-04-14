@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shrishail10
-- 👀 I’m interested in Web development, Application Development
+- 👀 I’m interested in Application Development
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me shrishailgourgond2001@gmail.com
